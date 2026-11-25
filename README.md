@@ -1,4 +1,4 @@
-# ❤️ Detection of Cardiovascular Diseases from ECG Images
+#  Detection of Cardiovascular Diseases from ECG Images
 
 ## 📌 Project Overview
 
